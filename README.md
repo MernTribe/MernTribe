@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 ![MongoDb](http://img.shields.io/badge/-MongoDb-black?style=flat-square&logo=mongodb)
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap5-green?style=flat-square&logo=bootstrap)
 
+![Git](http://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Npm](http://img.shields.io/badge/-Npm-black?style=flat-square&logo=npm&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
+![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext)
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -69,7 +73,4 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-![Git](http://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Npm](http://img.shields.io/badge/-Npm-black?style=flat-square&logo=npm&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
-![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext)
+
