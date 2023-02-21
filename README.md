@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-node.js-6db33f?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=blue)
+![React.js](https://img.shields.io/badge/-React.js-gray?style=flat-square&logo=react&logoColor=blue)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-black?style=flat-square&logo=mongodb)
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap5-green?style=flat-square&logo=bootstrap)
 
