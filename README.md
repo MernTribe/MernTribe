@@ -27,14 +27,12 @@ Here are some ideas to get you started:
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-node.js-6db33f?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)
-
 ![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=blue)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-black?style=flat-square&logo=mongodb)
+
+
+
 ![Git](http://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Npm](http://img.shields.io/badge/-Npm-black?style=flat-square&logo=npm&logoColor=white)
-
-
-![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext)
