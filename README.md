@@ -37,3 +37,9 @@ Here are some ideas to get you started:
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext)
 
 
+<h2 align="center">Feel free to reach out using the links below. Thanks for visiting!</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/peyton-bechard/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/peytonbechard/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/peytonbechard/"><img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
