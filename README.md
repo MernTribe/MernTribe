@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 ![React.js](https://img.shields.io/badge/-React.js-6db33f?style=flat-square&logo=react&logoColor=white)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
-![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
+![Git](http://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Npm](http://img.shields.io/badge/-Npm-black?style=flat-square&logo=npm&logoColor=white)
 
 
 ![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white)
