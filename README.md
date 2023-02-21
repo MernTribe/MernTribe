@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=blue)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-black?style=flat-square&logo=mongodb)
-![Bootstrap](http://img.shields.io/badge/-Bootstrap5-blue?style=flat-square&logo=bootstrap)
+![Bootstrap](http://img.shields.io/badge/-Bootstrap5-green?style=flat-square&logo=bootstrap)
 
 
 
